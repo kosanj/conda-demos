@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-This is an interactive environment to explore pytorch and gemini projects.
+This is an interactive environment to explore pytorch and gemini projects. For the gemini project, you will need to replace the placeholder for the API key.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kosanj/conda-demos/HEAD)
 
