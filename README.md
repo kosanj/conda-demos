@@ -1,5 +1,7 @@
 # Conda environment with environment.yml
 
+This is an interactive environment to explore pytorch and gemini projects.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kosanj/conda-demos/HEAD)
 
 Note to self: This repo must be public for this link to work.
