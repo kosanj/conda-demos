@@ -2,7 +2,7 @@
 
 This is an interactive environment to explore pytorch and gemini projects. For the gemini project, you will need to replace the placeholder for the API key.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kosanj/conda-demos/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kosanj/interactive-ml-demos/HEAD)
 
 Note to self: This repo must be public for this link to work.
 
