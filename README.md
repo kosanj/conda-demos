@@ -1,4 +1,16 @@
-# Conda environment with environment.yml
+# Projects
+
+This repo has simple code demonstrations to introduce and teach how to use PyTorch for image classification and the Gemini API for AI-powered image recognition and conversational tasks.
+
+1. **PyTorch Demo**  
+   The `pytorch` folder contains a simple image classification model that distinguishes between invoices and receipts.  
+
+2. **Gemini API Demo**  
+   The `gemini` folder provides basic examples of using the Gemini API in Python for image recognition and conversational tasks.  
+   > You will need to replace the placeholder with your own API key.
+
+# Interactive Environment
+### Conda environment with environment.yml
 
 This is an interactive environment to explore pytorch and gemini projects. For the gemini project, you will need to replace the placeholder for the API key.
 
@@ -6,5 +18,3 @@ This is an interactive environment to explore pytorch and gemini projects. For t
 
 Note to self: This repo must be public for this link to work.
 
-1. The "pytorch" folder is a demo of using pytorch to make an image classification model that shows if an image is an invoice or a receipt.
-2. The "gemini" folder has some basic examples of using the gemini API within a python project to perform image recognition, and conversational tasks.
